@@ -1,0 +1,83 @@
+body{
+background-color: rgb(24,24,24);
+margin: 0;
+}
+.div2{
+    position: relative;
+    margin: 0;
+    height: 60px;
+    width: 100%;
+    background-color: rgb(34, 34, 34);
+    border-bottom: 1px solid grey;
+}
+
+.div2 .i2{
+    position: absolute;
+    height: 46px;
+    width: 46px;
+    top: 7px;
+    left: 14px;
+}
+.div211{
+    position: absolute;
+    height: 44px;
+    width: 240px;
+    background-color: rgb(44, 44, 44);
+    border-radius: 25px;
+    top: 8px ;
+    left: 69px;
+}
+.div211 img{
+    position: absolute;
+    height: 17px;
+    width: 17px;
+    left: 13px;
+    top: 13px;
+}
+.div211 p{
+    position: absolute;
+    left: 40px;
+top: 12px;
+margin: 0;
+color: rgb(150, 150, 150);
+font-size: 17px;
+}
+.div22{
+    position: absolute;
+    top: 14px;
+    left: 510px;
+}
+
+.i22{
+   display: inline-block;
+   height: 35px;
+   width: 35px;
+margin: 0 35px;
+}
+.div1{
+    position: relative;
+    margin: 0;
+}
+.div10{
+    position: absolute;
+    margin: 0;
+    left: 460px;
+    width: 1000px;
+    height: 250px;
+margin: 0;
+top: 40px;
+}
+.div11,.div14,.div16 {
+   display: inline-block;
+    height: 220px;
+    width: 130px;
+    background-color: black;
+    border-radius: 35px;
+   margin: 0 40px;
+}
+
+ .divt{
+     font-size: 70px;
+     font-family: cursive;
+     color: crimson;
+ }
